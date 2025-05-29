@@ -69,5 +69,5 @@ document.getElementById('triage-form').addEventListener('submit', function(event
 
   setTimeout(() => {
     window.location.href = 'penutup.html';
-  }, 10000);
+  }, 5000);
 });
